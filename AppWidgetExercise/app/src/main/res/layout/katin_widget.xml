@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="@dimen/widget_margin"
+                android:background="#0d98ba">
+
+    <TextView
+            android:id="@+id/goodthingsTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/appwidget_text"
+            android:textColor="#ffffff"
+            android:textSize="20dp"
+            android:textStyle="bold|italic"
+            android:textAlignment="center"
+            android:contentDescription="@string/appwidget_text"
+            android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:layout_centerInParent="true"
+            android:layout_marginStart="8dp" android:layout_marginEnd="8dp"/>
+    <Button
+            android:text="@string/buttoni"
+            android:id="@+id/button1"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

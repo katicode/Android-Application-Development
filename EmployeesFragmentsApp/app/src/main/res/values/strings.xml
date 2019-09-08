@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmployeesFragmentsApp</string>
+    <string name="name">Name</string>
+    <string name="title">Title</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="department">Department</string>
+    <string name="moreInfo">More info here More info here More info here More info here More info here More info here</string>
+    <string name="imageDesc">Employee image</string>
+</resources>

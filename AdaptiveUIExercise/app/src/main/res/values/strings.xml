@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AdaptiveUIExercise</string>
+    <string name="aphorism">Aphorism here</string>
+    <string name="imagedesc">Image of the sea</string>
+    <string name="new_button">New aphorism</string>
+</resources>

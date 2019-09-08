@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LaunchMap</string>
+    <string name="give_location">Give a location (lat and lng)</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="button">Show a map</string>
+    <string name="sovelluksen_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="mainosyksikko_id">ca-app-pub-3940256099942544/6300978111</string>
+</resources>

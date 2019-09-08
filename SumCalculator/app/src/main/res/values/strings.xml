@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SumCalculator</string>
+    <string name="pic1">Happy Android picture</string>
+    <string name="number1"></string>
+    <string name="plus">+</string>
+    <string name="number2"></string>
+    <string name="on">=</string>
+    <string name="sum"></string>
+    <string name="calculate">Calculate sum</string>
+</resources>

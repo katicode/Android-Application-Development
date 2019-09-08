@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Good things app</string>
+    <string name="appwidget_text"></string>
+    <string name="add_widget">Add widget</string>
+    <string name="buttoni">More good</string>
+    <string name="moreinfo">This app helps you to remember good things.</string>
+    <string name="about">Click button below and add your good things!</string>
+    <string name="title_activity_list">My good things list</string>
+    <string name="thingText">thingText</string>
+
+    <string name="dialog_title">Good things</string>
+    <string name="dialog_message">Add new good thing to list</string>
+    <string name="dialog_ok">Ok</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="datetime">Pvm here</string>
+</resources>

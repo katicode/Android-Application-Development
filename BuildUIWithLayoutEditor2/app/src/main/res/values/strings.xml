@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BuildUIWithLayoutEditor2</string>
+    <string name="employee_pic">Employee pic</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="jobtitle">Jobtitle</string>
+    <string name="employee_information">Employee information text here...</string>
+    <string name="basic_text">lorem ipsum tekstiä lorem ipsum tekstiä lorem ipsum tekstiä lorem ipsum tekstiä</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+</resources>
